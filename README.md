@@ -1,6 +1,6 @@
 # v-vehicle-images
 
-A collection of transparent images for all vehicles from GTA:V
+A collection of transparent images for all vehicles from GTA:V. If you like it, think about giving this repo a star! Thanks :)
 
 ## Contributing
 
